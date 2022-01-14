@@ -57,9 +57,9 @@ body {
 
 .scoreBoard {
   border-radius: 10px;
-  border: solid 5px #0ea15f;
+  border: solid 5px #12301a;
   color: dimgray;
-  background-color: #0cab64;
+  background-color: #234a2d;
   display: inline-block;
   padding: 1vw;
   width: 40%;

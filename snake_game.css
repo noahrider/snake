@@ -1,5 +1,5 @@
 body {
-  background-color: darkslategrey;
+  background-color: #0ea15f;
   text-align: center;
 }
 
@@ -36,14 +36,14 @@ body {
 
 /* SNAKE STYLES */
 .snakeBodyPixel {
-  background-color: #fd6401;
+  background-color: #13c410;
   box-shadow: 0 0 5px #fd6401;
 }
 /* SNAKE STYLES END*/
 
 /* FOOD STYLES */
 .food {
-  background-color: #68e768;
+  background-color: #c4102b;
 }
 /* FOOD STYLES END*/
 

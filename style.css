@@ -1,0 +1,23 @@
+body {
+
+  background-color: rgb(255, 209, 209);
+
+}
+
+canvas {
+  border: 5px solid black;
+  margin: 0 auto;
+  display: block;
+  width: 800x;
+  height: 750px;
+}
+
+.credit {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 14px;
+}
+.credit a {
+  text-decoration: none;
+  color: black;
+}
